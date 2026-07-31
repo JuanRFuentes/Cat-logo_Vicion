@@ -1,1 +1,11 @@
 
+[
+  {
+    "categoria": "Anime",
+    "carpeta": "assets/anime/"
+  },
+  {
+    "categoria": "Deportes",
+    "carpeta": "assets/Deportes/"
+  }
+]
